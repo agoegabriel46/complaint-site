@@ -1,0 +1,12 @@
+FRONEND
+cd complaint-frontend
+npm run dev
+
+Paste your device IP address in the env file 
+
+BACKEND
+cd backend
+yarn --v
+npm develop
+npm run
+npm run develop
